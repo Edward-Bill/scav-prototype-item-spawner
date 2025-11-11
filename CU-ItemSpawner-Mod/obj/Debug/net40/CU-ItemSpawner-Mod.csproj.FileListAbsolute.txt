@@ -1,0 +1,6 @@
+C:\Users\jenia\source\repos\CU-ItemSpawner-Mod\CU-ItemSpawner-Mod\obj\Debug\net40\CU-ItemSpawner-Mod.csproj.AssemblyReference.cache
+C:\Users\jenia\source\repos\CU-ItemSpawner-Mod\CU-ItemSpawner-Mod\obj\Debug\net40\MyPluginInfo.cs
+C:\Users\jenia\source\repos\CU-ItemSpawner-Mod\CU-ItemSpawner-Mod\obj\Debug\net40\CU-ItemSpawner-Mod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jenia\source\repos\CU-ItemSpawner-Mod\CU-ItemSpawner-Mod\obj\Debug\net40\CU-ItemSpawner-Mod.AssemblyInfoInputs.cache
+C:\Users\jenia\source\repos\CU-ItemSpawner-Mod\CU-ItemSpawner-Mod\obj\Debug\net40\CU-ItemSpawner-Mod.AssemblyInfo.cs
+C:\Users\jenia\source\repos\CU-ItemSpawner-Mod\CU-ItemSpawner-Mod\obj\Debug\net40\CU-ItemSpawner-Mod.csproj.CoreCompileInputs.cache
